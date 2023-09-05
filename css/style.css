@@ -812,6 +812,29 @@ section {
   resize: none;
 }
 
+.servicios {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+
 .blogs-container {
   background: var(--light-bg);
 }
